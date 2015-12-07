@@ -56,6 +56,3 @@ DEPENDENCIES
   html-proofer!
   jekyll!
   semantic!
-
-BUNDLED WITH
-   1.10.6
